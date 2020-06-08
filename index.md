@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## RISHIKESH S
+About me
 
-You can use the [editor on GitHub](https://github.com/rishi20002000/rishikesh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Future Electronics & Communication Engineer.
+I am a hard-working, enthusiastic, and all round effervescent person who is passionate to gain more and more knowledge. Whatever task I take in my hand, I do with full passion and concentration, and try to complete the task on time. I enjoy learning new things and challenging myself. Throughout my college career, I have discovered that I have a strong interest towards new technologies and developments.
+Some of my areas of expertise include: IoT, Embedded systems, Android App development and Machine learning. Also, I am good in C, C++, Java, Python and Android Studio. 
 
 ### Markdown
 
